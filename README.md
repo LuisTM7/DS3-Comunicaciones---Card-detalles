@@ -11,4 +11,4 @@ Sitio web creado desde cero con **HTML y CSS**, enfocado en **diseño responsive
 
 ## 🚀 Deploy
 
-👉 [Ver sitio web](https://relaxed-queijadas-04b5ec.netlify.app/)
+👉 <a href="https://relaxed-queijadas-04b5ec.netlify.app/" target="_blank">Ver sitio web</a>
